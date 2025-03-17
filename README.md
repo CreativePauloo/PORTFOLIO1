@@ -31,3 +31,7 @@ CSS: For styling and layout.
 
 JavaScript: For adding interactivity (e.g., form submission).
 
+4. Deployment
+
+   GitHub Pages
+   https://creativepauloo.github.io/PORTFOLIO1/
