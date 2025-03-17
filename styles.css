@@ -56,6 +56,21 @@ body {
     margin-bottom: 40px;
     font-size: 2rem;
   }
+
+  /* About Section */
+.about-content {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #333;
+}
   
   /* Projects Grid */
   .project-grid {
