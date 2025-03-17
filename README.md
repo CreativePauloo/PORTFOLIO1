@@ -2,6 +2,7 @@ Project Documentation: Portfolio Website
 1. Project Overview
 
 This project is a personal portfolio website designed to showcase my skills, projects, and contact information. It is built using HTML, CSS, and JavaScript. The website is fully responsive, ensuring it works seamlessly on desktops, tablets, and mobile devices.
+
 2. Features
 
 Responsive Design: The website adapts to different screen sizes using CSS Grid and Flexbox.
